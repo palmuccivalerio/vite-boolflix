@@ -4,5 +4,6 @@ export const store= reactive ({
     searched:"",
     filmArr: [],
     flag: ["de", "en","it","ja"],
+    tvArr: [],
 
 });
